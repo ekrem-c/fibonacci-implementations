@@ -1,0 +1,18 @@
+x canary test
+
+
+Base Tests
+x fibonacci for position 0
+x fibonacci for position 1
+x fibonacci for position 2
+x fibonacci for position 3
+x fibonacci for position 5
+x fibonacci for position 10
+x fibonacci for position -1
+
+x Base Tests for fibonacci functional
+x Base Tests for fibonacci iterative
+x Base Tests for fibonacci recursive
+x Base Tests for fibonacci memoized
+
+x Test for comparing performance of memoized and recursive solutions
